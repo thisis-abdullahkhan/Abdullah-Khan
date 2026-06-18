@@ -1,5 +1,5 @@
 ## Introduction
-I’m building my skills in web development and data structures & algorithms. I enjoy exploring new concepts, solving problems and continuously improving through hands-on practice.
+I am building my skills in web development and data structures & algorithms. I enjoy exploring new concepts, solving problems and continuously improving through hands-on practice.
 
 ## Skills
 - C++
@@ -8,5 +8,5 @@ I’m building my skills in web development and data structures & algorithms. I 
 - React, Next.js, TypeScript
 
 ## Goals
-- Become full-stack developer
-- Crack software engineering job
+- Become a full-stack developer
+- Secure a software engineering job
