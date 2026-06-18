@@ -1,5 +1,5 @@
 ## Introduction
-I’m building my skills in web development and data structures & algorithms. I enjoy exploring new concepts, solving problems, and continuously improving through hands-on practice.
+I’m building my skills in web development and data structures & algorithms. I enjoy exploring new concepts, solving problems and continuously improving through hands-on practice.
 
 ## Skills
 - C++
